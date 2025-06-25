@@ -118,7 +118,7 @@ A freelance platform to connect clients with freelancers through task posting an
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" style="width: 100px; height: auto;"  />
 </p>
 
 ---
@@ -135,9 +135,9 @@ A freelance platform to connect clients with freelancers through task posting an
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:touhidtamim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=touhidtamim@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
   <a href="https://linkedin.com/in/touhidtamim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
