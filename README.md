@@ -1,13 +1,16 @@
-<!-- 🔥 Banner -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337" alt="banner" width="80%" />
-</p>
-
 <h1 align="center">Hi, I'm Touhid Tamim 👋</h1>
 <h3 align="center">💻 Web Developer | 🚀 MERN Stack Explorer | 🎯 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Web+Developer;Building+Full-stack+Apps;Learning+Every+Single+Day;Bangladeshi+Tech+Enthusiast&center=true&width=500&height=45" />
+</p>
+
+---
+
+
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337" alt="banner" width="80%" />
 </p>
 
 ---
