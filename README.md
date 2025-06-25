@@ -66,8 +66,9 @@
   <img src="https://streak-stats.demolab.com/?user=touhidtamim&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
+<!-- Top Languages section might not work if your repos aren't code-heavy yet -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight" width="38%" />
 </p>
 
 ---
