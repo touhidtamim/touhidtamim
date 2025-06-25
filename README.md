@@ -106,22 +106,36 @@
 
 ## 🚧 Projects
 
+### 🥗 [KeepFresh](https://test-keepfresh.netlify.app) — Food Expiry Tracker  
+A full-stack MERN app to manage food items, track expiry, and reduce waste with a smart, responsive UI.
+
+**Key Features:**  
+- 🔐 Email/Google Auth (Firebase) + JWT backend security  
+- 🗂️ CRUD for food items with category & expiry info  
+- ⏳ Live countdown timer & expiry alerts  
+- 📊 Stats: total, expired, and soon-to-expire items  
+- 🔍 Smart search, filters, personal notes  
+- ⚙️ Fully responsive with TailwindCSS + DaisyUI  
+
+**Tech Stack:** React, Express, MongoDB, Firebase Auth, TailwindCSS
+
 ---
 
-### 🔹 [KeepFresh](https://test-keepfresh.netlify.app) — MERN Stack App  
-> A food expiry tracker that helps users manage food items, get alerts, and stay organized.
+### 🚀 [SkillNest](https://test-skillnest.netlify.app) — Freelance Task Marketplace  
+A freelance platform to connect clients with freelancers through task posting and management.
 
-**Features:**  
-- 🔐 User Authentication (Email & Google)  
-- ⚙️ CRUD Operations  
-- ⏳ Countdown timer & expiry filters  
+**Key Features:**  
+- 🔐 Secure Auth with Firebase  
+- 📝 Task creation, update, delete & filter by budget/deadline  
+- 🧑‍💻 User dashboard with protected routes  
+- 📱 Responsive design with dynamic navbar  
+- ⚠️ Strong validation, alerts, and smooth UI/UX  
+
+**Tech Stack:** React, Firebase, TailwindCSS, DaisyUI, Vite
 
 ---
 
-### 🔹 [SkillNest](https://test-skillnest.netlify.app) — Skill-sharing platform  
-> A platform for discovering and sharing practical skills. Built with React, Firebase, and Tailwind CSS.
-
-> 📌 *More projects coming soon as I continue learning.*
+📌 *More projects coming soon as I continue building and learning.*
 
 ---
 
