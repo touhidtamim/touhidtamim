@@ -169,7 +169,7 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Coding Motivation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding Motivation" />
 </p>
 
 
