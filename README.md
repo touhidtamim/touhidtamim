@@ -20,41 +20,15 @@ Love to solve real-world problems through clean and efficient code.
 
 ---
 
-## 🛠️ My Skills
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=touhidtamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=touhidtamim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,firebase" alt="My Skills" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=touhidtamim&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=touhidtamim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=touhidtamim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:touhid.tamim77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/touhidtamim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/touhidtamim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
