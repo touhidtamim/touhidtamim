@@ -1,5 +1,5 @@
 <!-- 🎬 Animated Banner -->
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" alt="Welcome Banner" />
+<img src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337)" width="80%" alt="Welcome Banner" />
 
 <h1 align="center">👋 Hey there! I'm <span style="color:#f39c12">Touhid Tamim</span></h1>
 <h3 align="center">💻 Web Developer | 🚀 MERN Stack Explorer | 🎯 Lifelong Learner</h3>
