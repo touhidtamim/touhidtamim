@@ -106,12 +106,17 @@
 
 ## 🚧 Projects
 
+---
+
 ### 🔹 [KeepFresh](https://test-keepfresh.netlify.app) — MERN Stack App  
 > A food expiry tracker that helps users manage food items, get alerts, and stay organized.
 
-- User Authentication (Email & Google)  
-- CRUD Operations  
-- Countdown timer & expiry filters  
+**Features:**  
+- 🔐 User Authentication (Email & Google)  
+- ⚙️ CRUD Operations  
+- ⏳ Countdown timer & expiry filters  
+
+---
 
 ### 🔹 [SkillNest](https://test-skillnest.netlify.app) — Skill-sharing platform  
 > A platform for discovering and sharing practical skills. Built with React, Firebase, and Tailwind CSS.
