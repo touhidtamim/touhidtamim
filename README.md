@@ -20,7 +20,7 @@
 
 ## 🧐 About Me
 
-🎓 I’m a passionate and self-motivated web developer from **Bangladesh** 🇧🇩, dedicated to creating **fast, clean, and user-friendly** web applications.  
+🎓 A passionate and self-motivated web developer from **Bangladesh** 🇧🇩, dedicated to creating **fast, clean, and user-friendly** web applications.  
 💻 Currently deepening my expertise in the **MERN stack** to grow into a confident full-stack developer.  
 🚀 I believe in continuous learning and building scalable solutions that make a real impact.
 
