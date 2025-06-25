@@ -13,7 +13,6 @@
 ## 🧠 Who Am I?
 
 🎓 I'm a self-motivated, passionate web developer from **Bangladesh** 🇧🇩
-
 🌐 I love to create beautiful, fast, and scalable web applications  
 🧑‍💻 Currently working on MERN stack projects and aiming for deep expertise in full-stack development
 
