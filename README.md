@@ -65,12 +65,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="47%" alt="Touhid's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=touhidtamim&theme=tokyonight&hide_border=true&border_radius=10" width="47%" alt="Touhid's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="47%" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=touhidtamim&theme=tokyonight&hide_border=true&border_radius=10" width="47%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" alt="Top Languages" />
 </p>
 
 ---
