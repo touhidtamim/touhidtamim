@@ -173,13 +173,13 @@ A freelance platform to connect clients with freelancers through task posting an
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:touhidtamim@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:touhidtamim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/touhidtamim" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/touhidtamim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/touhidtamim" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/touhidtamim">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
