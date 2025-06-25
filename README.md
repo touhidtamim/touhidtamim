@@ -118,10 +118,9 @@ A freelance platform to connect clients with freelancers through task posting an
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" />
-  <img src="https://img.shields.io/github/followers/touhidtamim?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Currently_Focused_On-Fullstack_Projects-2563EB?style=flat-square&logo=target" alt="Current Focus" />
-</p>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" style="width: 100px; height: auto;"  />
+  <img src="https://img.shields.io/github/followers/touhidtamim?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-blue?style=for-the-badge&labelColor=555" alt="Current Focus" />
 
 
 ---
