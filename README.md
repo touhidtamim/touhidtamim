@@ -13,6 +13,7 @@
 ## 🧠 Who Am I?
 
 🎓 I'm a self-motivated, passionate web developer from **Bangladesh** 🇧🇩
+
 🌐 I love to create beautiful, fast, and scalable web applications  
 🧑‍💻 Currently working on MERN stack projects and aiming for deep expertise in full-stack development
 
@@ -50,7 +51,7 @@
 - CRUD for food items
 - Countdown timer & expiry filters
 
-### 🔹 [SkillNest](https://test-skillnest.netlify.app — Skill-sharing platform  
+### 🔹 [SkillNest](https://test-skillnest.netlify.app) — Skill-sharing platform  
 > A platform to explore, post, and search practical learning skills. Built with React, Firebase, and Tailwind CSS.
 
 > 📌 *More projects coming soon as I continue my learning journey.*
