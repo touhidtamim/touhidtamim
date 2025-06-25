@@ -123,7 +123,7 @@ A freelance platform to connect clients with freelancers through task posting an
 
 ---
 
-### 🧹 Current Focus & Activities
+### 🎯 Current Focus & Activities
 
 - 🔭 Learning: **Next.js**, **API Security**, **JWT Authentication**  
 - 🔧 Building: Full-stack apps with React and Node.js  
