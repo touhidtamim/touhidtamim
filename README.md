@@ -62,12 +62,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=github_dark&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=touhidtamim&theme=github-dark&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_title=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=touhidtamim&theme=tokyonight&hide_border=false&border_radius=10" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=github_dark" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/touhidtamim/touhidtamim/output/github-contribution-grid-snake.svg" alt="snake gif" width="80%" />
 </p>
 
 ---
