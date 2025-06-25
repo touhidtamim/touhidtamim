@@ -69,9 +69,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="margin-right:5px;">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer" style="margin-right:5px;">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  </a>
+  
 </p>
 
 ### 🧰 Tools & Platforms:
@@ -94,9 +92,7 @@
   <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" style="margin-right:5px;">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="margin-right:5px;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
+ 
 </p>
 
 ---
