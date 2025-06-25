@@ -115,18 +115,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="background-color: white; padding: 12px; border-radius: 16px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&bg_color=ffffff&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<p align="center" style="background-color: #f1f5f9; padding: 14px; border-radius: 18px; display: inline-block; box-shadow: 0 6px 15px rgba(30, 64, 175, 0.1); margin-bottom: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&bg_color=f8fafc&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
-<p align="center" style="background-color: white; padding: 12px; border-radius: 16px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-top: 10px;">
+<p align="center" style="background-color: #f1f5f9; padding: 14px; border-radius: 18px; display: inline-block; box-shadow: 0 6px 15px rgba(30, 64, 175, 0.1); margin-bottom: 15px;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=touhidtamim&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center" style="background-color: white; padding: 12px; border-radius: 16px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&bg_color=ffffff&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<p align="center" style="background-color: #f1f5f9; padding: 14px; border-radius: 18px; display: inline-block; box-shadow: 0 6px 15px rgba(30, 64, 175, 0.1); margin-bottom: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&bg_color=f8fafc&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
 
 
 <p align="center">
