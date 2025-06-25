@@ -65,13 +65,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="47%" />
-
-  <img src="https://YOUR_DEPLOY_URL/?user=touhidtamim&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=touhidtamim&theme=tokyonight&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight" width="60%" />
 </p>
 
 ---
