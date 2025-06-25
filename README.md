@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" style="width: 150px; height: auto;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" style="width: 100px; height: auto;" />
 </p>
 
 
