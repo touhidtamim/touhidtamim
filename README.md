@@ -62,16 +62,15 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=touhidtamim&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="47%" alt="Touhid's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=touhidtamim&theme=tokyonight&hide_border=true&border_radius=10" width="47%" alt="Touhid's GitHub streak"/>
 </p>
 
-<!-- Top Languages section might not work if your repos aren't code-heavy yet -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" alt="Top Languages"/>
 </p>
 
 ---
