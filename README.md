@@ -169,8 +169,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Lny9IcCZGLVeU/giphy.gif" width="160" alt="Coding Motivation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Coding Motivation" />
 </p>
+
 
 <p align="center">
   <b>Thanks for visiting!</b> 🤝  
