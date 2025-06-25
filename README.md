@@ -119,7 +119,7 @@ A freelance platform to connect clients with freelancers through task posting an
 
 <p align="center">
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim&style=for-the-badge&labelColor=000&color=blue" 
+    src="https://PROFILE VIEW-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim&style=for-the-badge&labelColor=000&color=blue" 
     alt="visitor badge" 
     style="width: 100px; height: auto; margin-right: 20px;" 
   />
