@@ -19,17 +19,24 @@
 
 ---
 
-## 🧐 Who Am I?
+## 🧐 About Me
 
-🎓 I'm a self-motivated, passionate web developer from **Bangladesh** 🇧🇩  
-🌐 I enjoy building fast, beautiful, and user-friendly web applications.  
-👨‍💻 Currently diving deep into the **MERN stack** and focusing on becoming a full-stack developer.
-
-- ✅ Passionate about user-centered development  
-- ✅ Learning by building real-world projects  
-- ✅ Open to internships and collaboration opportunities  
+🎓 **Self-motivated** and passionate web developer based in **Bangladesh** 🇧🇩  
+🌐 Dedicated to crafting **fast, beautiful, and user-friendly** web applications  
+👨‍💻 Currently diving deep into the **MERN stack** to become a confident full-stack developer  
 
 ---
+
+### What drives me?
+
+- ✅ Building projects with **real users in mind** — user-centered development  
+- ✅ Constantly **learning by doing** and improving my skills every day  
+- ✅ Always open to **internships, collaborations, and exciting opportunities**  
+
+---
+
+✨ _“Code is not just what I write, it’s how I solve problems and create impact.”_  
+
 
 ## 🛠️ Tech Stack
 
