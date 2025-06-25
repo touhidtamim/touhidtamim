@@ -116,14 +116,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&bg_color=ffffff&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=touhidtamim&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=touhidtamim&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&bg_color=ffffff&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim" alt="visitor badge" style="width: 100px; height: auto;" />
