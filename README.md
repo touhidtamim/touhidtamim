@@ -121,12 +121,12 @@ A freelance platform to connect clients with freelancers through task posting an
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim&style=for-the-badge&labelColor=000&color=blue" 
     alt="visitor badge" 
-    style="width: 100px; height: auto; margin-right: 10px;" 
+    style="width: 100px; height: auto; margin-right: 20px;" 
   />
   <img 
     src="https://img.shields.io/github/followers/touhidtamim?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000&color=blue" 
     alt="GitHub Followers" 
-    style="margin-right: 10px;" 
+    style="margin-right: 20px;" 
   />
   <img 
     src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-blue?style=for-the-badge&labelColor=000" 
