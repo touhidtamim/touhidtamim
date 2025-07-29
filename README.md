@@ -1,15 +1,12 @@
-<h1 align="center">
-  Hey there, I'm Touhid Tamim 👋
-</h1>
-<h2 align="center">
-  🚀 Aspiring Full-Stack Web Developer
-</h2>
+<h1 align="center">Hey, I'm Touhid Tamim 👋</h1>
+
 <h3 align="center">
-  🌐 Currently diving deep into the MERN Stack
+  Aspiring Full-Stack Developer | Currently focused on the MERN Stack
 </h3>
-<h4 align="center">
-  I love building modern, scalable web applications and learning new technologies every day 💻
-</h4>
+
+<p align="center">
+  I’m not just learning to code — I’m learning to solve real problems. With every project, I get closer to the developer I aim to become.
+</p>
 
 
 ---
