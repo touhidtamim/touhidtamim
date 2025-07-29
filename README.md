@@ -4,10 +4,6 @@
   Aspiring Full-Stack Developer | Currently focused on the MERN Stack
 </h3>
 
-<p align="center">
-  I’m not just learning to code — I’m learning to solve real problems. With every project, I get closer to the developer I aim to become.
-</p>
-
 
 ---
 
