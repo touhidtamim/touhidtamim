@@ -1,13 +1,15 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#007acc;">Touhid Tamim</span>
+  Hey there, I'm Touhid Tamim 👋
 </h1>
+<h2 align="center">
+  🚀 Aspiring Full-Stack Web Developer
+</h2>
 <h3 align="center">
-  💻 Passionate Web Developer &nbsp;|&nbsp; ⚛️ MERN Stack Explorer &nbsp;|&nbsp; 🎯 Lifelong Learner
+  🌐 Currently diving deep into the MERN Stack
 </h3>
 <h4 align="center">
-  Crafting clean code, building scalable web apps, and growing every day 🚀
+  I love building modern, scalable web applications and learning new technologies every day 💻
 </h4>
-
 
 
 ---
