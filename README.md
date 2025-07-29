@@ -1,13 +1,14 @@
 <h1 align="center">
-  Hi, I'm Touhid Tamim 👋
+  👋 Hi, I'm <span style="color:#007acc;">Touhid Tamim</span>
 </h1>
 <h3 align="center">
-  💻 Web Developer | 🚀 MERN Stack Explorer | 🎯 Lifelong Learner
+  💻 Passionate Web Developer &nbsp;|&nbsp; ⚛️ MERN Stack Explorer &nbsp;|&nbsp; 🎯 Lifelong Learner
 </h3>
+<h4 align="center">
+  Crafting clean code, building scalable web apps, and growing every day 🚀
+</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Web+Developer;Building+Full-stack+Apps;Learning+Every+Single+Day;Bangladeshi+Tech+Enthusiast&center=true&width=520&height=45&color=2563eb" alt="Typing SVG" />
-</p>
+
 
 ---
 
