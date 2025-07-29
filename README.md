@@ -65,30 +65,45 @@ I am a dedicated web developer from Bangladesh with a focus on mastering the MER
 
 ## 🚧 Projects
 
-### 🥗 [KeepFresh](https://test-keepfresh.netlify.app) — Food Expiry Tracker
-A full-stack MERN app to manage food items, track expiry, and reduce waste with a smart, responsive UI.
+### 🏟️ [Elite Arena](https://elite-arena.netlify.app) — Sports Club Management System  
+A professional-grade platform that simplifies sports club operations, including member registration, court booking, payments, and announcements — all in one place.
 
-**Key Features:**  
-- 🔐 Email/Google Auth (Firebase) + JWT backend security  
-- 🗂️ CRUD for food items with category & expiry info  
-- ⏳ Live countdown timer & expiry alerts  
-- 📊 Stats: total, expired, and soon-to-expire items  
-- 🔍 Smart search, filters, personal notes  
-- ⚙️ Fully responsive with TailwindCSS + DaisyUI  
+**Key Highlights:**  
+- 🔐 Secure authentication (Firebase + JWT) with role-based access (Admin, Member, User)  
+- 🏸 Court management: add/edit/delete courts with facilities, images, and availability  
+- 📅 Real-time booking system with status tracking (Pending, Approved, Confirmed)  
+- 💳 Stripe-integrated payment with coupon discount handling  
+- 📢 Live announcements, dynamic dashboard, gallery, and 30+ branch locator  
+- 🧠 Optimized UX with spinners, modals, toast notifications, and responsive design  
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase Auth, Stripe, TailwindCSS
+
+---
+
+### 🥗 [KeepFresh](https://test-keepfresh.netlify.app) — Smart Food Expiry Tracker  
+A full-stack MERN application designed to minimize food waste by helping users track expiry dates efficiently.
+
+**Key Highlights:**  
+- 🔐 Secure authentication (Email/Google via Firebase) with JWT-protected backend  
+- 🗂️ Intuitive CRUD for food items, including categories and expiry info  
+- ⏳ Live countdown timers with real-time expiry alerts  
+- 📊 Dashboard stats: total, expired, and near-expiry items  
+- 🔍 Smart search, filtering, and personal notes support  
+- ⚙️ Fully responsive UI powered by TailwindCSS + DaisyUI  
 
 **Tech Stack:** React, Express, MongoDB, Firebase Auth, TailwindCSS
 
 ---
 
-### 🚀 [SkillNest](https://test-skillnest.netlify.app) — Freelance Task Marketplace
-A freelance platform to connect clients with freelancers through task posting and management.
+### 🚀 [SkillNest](https://test-skillnest.netlify.app) — Freelance Task Marketplace  
+A dynamic freelance platform where clients and freelancers connect through task-based project listings.
 
-**Key Features:**  
-- 🔐 Secure Auth with Firebase  
-- 📝 Task creation, update, delete & filter by budget/deadline  
-- 🧑‍💻 User dashboard with protected routes  
-- 📱 Responsive design with dynamic navbar  
-- ⚠️ Strong validation, alerts, and smooth UI/UX  
+**Key Highlights:**  
+- 🔐 Secure login/signup via Firebase authentication  
+- 📝 Create, edit, delete tasks with filtering by budget or deadline  
+- 🧑‍💼 Personalized user dashboards with route protection  
+- 📱 Mobile-first responsive design with adaptive UI elements  
+- ⚠️ Real-time validation, error handling, and alert feedback  
 
 **Tech Stack:** React, Firebase, TailwindCSS, DaisyUI, Vite
 
