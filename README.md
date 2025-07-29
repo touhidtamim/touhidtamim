@@ -148,34 +148,42 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 ### 🎯 Current Focus & Activities
 
-- 🔭 Learning: **Next.js**, **API Security**, **JWT Authentication**  
-- 🔧 Building: Full-stack apps with React and Node.js  
-- 🌍 Planning: A tourism-focused web platform  
-- 📖 Preparing: For interviews, clean code practice, backend architecture  
+- 🧠 Mastering full-stack architecture, from frontend design patterns to scalable backend systems  
+- 🔐 Diving into advanced security: JWT flows, OAuth strategies, and API protection best practices  
+- 🧪 Embracing Test‑Driven Development (TDD) for writing production‑ready, reliable code  
+- ⚙️ Exploring DevOps fundamentals: CI/CD pipelines, serverless deployment, and Docker workflows  
+- 🌐 Building with Next.js for performance optimization, SEO, and universal rendering
+
+> Pushing beyond CRUD — architecting clean, scalable systems built to handle real‑world complexity.
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=touhidtamim1@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-  <a href="https://linkedin.com/in/touhidtamim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center" style="margin-bottom: 10px;">
+  Feel free to reach out — I’m always open to connect, collaborate, and learn.
+</p>
+
+<p align="center">
+  <a href="mailto:touhidtamim1@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" />
   </a>
-  <a href="https://github.com/touhidtamim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/touhidtamim" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
+  </a>
+  <a href="https://github.com/touhidtamim" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="36" />
   </a>
 </p>
+
 
 ---
 
 ## 💬 A Personal Note
 
-> “I’m not where I want to be yet, but every line of code brings me closer.”  
-> “I don’t just write code. I build, break, fix, learn — and grow.”  
-> “If you’re looking for someone hungry to grow, I’m that guy.”
+> “I'm not where I want to be yet — but every problem I solve takes me a step closer.”  
+> “To me, code isn't just syntax — it's thinking clearly, building purposefully, and learning relentlessly.”  
+> “If you're looking for someone who’s not afraid to start small but aims to build big, I’m already on that path.”
 
 ---
 
