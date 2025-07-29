@@ -19,15 +19,16 @@ I am a dedicated web developer from Bangladesh with a focus on mastering the MER
 
 ---
 
-### What drives me?
+## 📈 What Drives Me
 
-- ✅ Building projects with **real users in mind** — user-centered development  
-- ✅ Constantly **learning by doing** and improving my skills every day  
-- ✅ Always open to **internships, collaborations, and exciting opportunities**  
+- ✅ Creating projects with **real users in mind** — always focused on practical, user-centered solutions  
+- ✅ Growing through **hands-on learning** and improving with every line of code  
+- ✅ Open to **internships, meaningful collaborations, and exciting opportunities** that push me forward  
 
 ---
 
-✨ _“Code is not just what I write, it’s how I solve problems and create impact.”_  
+✨ _“Code isn’t just what I write — it’s how I think, solve, and build things that matter.”_
+
 
 ## 🛠️ Tech Stack
 
