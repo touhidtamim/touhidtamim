@@ -17,12 +17,11 @@
 </p>
 
 ---
-
 ## 🧐 About Me
 
-🎓 I'm a passionate and self-motivated web developer from **Bangladesh** 🇧🇩, dedicated to creating **fast, clean, and user-friendly** web applications.  
-💻 Currently deepening my expertise in the **MERN stack** to grow into a confident full-stack developer.  
-🚀 I believe in continuous learning and building scalable solutions that make a real impact.
+I am a dedicated web developer from Bangladesh with a focus on mastering the MERN stack. Driven by curiosity and purpose, I transform ideas into efficient, user-centric applications.  
+My approach balances thoughtful design with practical solutions, reflecting a commitment to continuous growth and delivering meaningful impact through every project.  
+I thrive in challenges that push me to learn and adapt, always aiming to build scalable and maintainable code that stands the test of time.
 
 ---
 
