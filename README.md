@@ -14,7 +14,7 @@
 <!-- Intro -->
 <p align="center">
       <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=220&section=header&text=Touhid%20Tamim&fontSize=80&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Solutions%20Architect%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descSize=16&descAlignY=60"
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=280&section=header&text=Touhid%20Tamim&fontSize=80&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Solutions%20Architect%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descSize=16&descAlignY=60"
         width="100%"
       />
     </p>
