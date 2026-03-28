@@ -1,16 +1,23 @@
-<h1 align="center">Hey, I'm Touhid Tamim 👋</h1>
+<!--
+    Hey there, I'm Touhid Tamim!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn https://www.linkedin.com/in/touhidtamim/ :))
+-->
 
-<h3 align="center">
-  Aspiring Full-Stack Developer | Currently focused on the MERN Stack
-</h3>
 
 
----
 
-<!-- Banner -->
+
+<!-- Intro -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337" alt="banner" width="80%" />
-</p>
+      <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=220&section=header&text=Touhid%20Tamim&fontSize=80&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20Solutions%20Architect%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descSize=16&descAlignY=60"
+        width="100%"
+      />
+    </p>
 
 ---
 ## 🧐 About Me
