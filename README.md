@@ -16,10 +16,11 @@
       />
     </p>
 
+
 ## 🧐 About Me
 
--  BSc in Computer Science student building production-ready web applications  
--  Full-Stack JavaScript Developer specializing in the MERN stack (React, Node.js, Express, MongoDB)  
+-  BSc in Computer Science and Engineering student, building production-ready web applications  
+-  Full-Stack JavaScript Developer, specializing in the MERN stack (React, Node.js, Express, MongoDB)  
 -  Built full-stack products including booking platforms, freelance marketplaces, and smart inventory systems  
 -  Experienced in REST API design, authentication systems (JWT, Firebase), role-based dashboards, and third-party integrations (Stripe)  
 -  Skilled in creating responsive, accessible, and component-based UIs using React, Tailwind CSS, and modern CSS techniques  
@@ -29,6 +30,7 @@
 
 
 ---
+
 
 ## 🛠️ Tech Stack
 
