@@ -4,11 +4,8 @@
     Feel free to inspire!
     
     But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn https://www.linkedin.com/in/touhidtamim/ :))
+    You may also want to connect with me on LinkedIn https://www.linkedin.com/in/touhidtamim/ :) )
 -->
-
-
-
 
 
 <!-- Intro -->
@@ -19,10 +16,14 @@
       />
     </p>
 
----
+
 ## 🧐 About Me
 
-I am a dedicated web developer from Bangladesh with a focus on mastering the MERN stack. Driven by curiosity and purpose, I transform ideas into efficient, user-centric applications. My approach balances thoughtful design with practical solutions, reflecting a commitment to growth and meaningful impact in every project I undertake.
+• BSc in Computer Science student with a focus on modern web application development  
+• MERN Stack Developer, building full-stack applications with React, Node.js, Express, and MongoDB  
+• Experience implementing authentication systems (Firebase + JWT), REST APIs, and role-based dashboards  
+• Developed multiple production-style projects including booking systems, task marketplaces, and inventory tools  
+• Strong focus on scalable architecture, clean code, and responsive UI/UX
 
 ---
 
