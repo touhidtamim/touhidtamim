@@ -19,11 +19,14 @@
 
 ## 🧐 About Me
 
-• BSc in Computer Science student with a focus on modern web application development  
-• MERN Stack Developer, building full-stack applications with React, Node.js, Express, and MongoDB  
-• Experience implementing authentication systems (Firebase + JWT), REST APIs, and role-based dashboards  
-• Developed multiple production-style projects including booking systems, task marketplaces, and inventory tools  
-• Strong focus on scalable architecture, clean code, and responsive UI/UX
+-  BSc in Computer Science student building production-ready web applications  
+-  Full-Stack JavaScript Developer specializing in the MERN stack (React, Node.js, Express, MongoDB)  
+-  Built full-stack products including booking platforms, freelance marketplaces, and smart inventory systems  
+-  Experienced in REST API design, authentication systems (JWT, Firebase), role-based dashboards, and third-party integrations (Stripe)  
+-  Skilled in creating responsive, accessible, and component-based UIs using React, Tailwind CSS, and modern CSS techniques  
+-  Strong focus on scalable backend architecture, clean code practices, and maintainable JavaScript systems  
+-  Comfortable with modern developer workflows including Git/GitHub, Vercel/Netlify deployment, and collaborative version control  
+-  Leveraging AI-assisted development for debugging, rapid prototyping, and productivity improvements
 
 ---
 
