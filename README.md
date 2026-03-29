@@ -15,6 +15,8 @@
         width="100%"
       />
     </p>
+
+    
 ## 🧐 About Me
 
 -  BSc in Computer Science and Engineering student, building production-ready web applications  
