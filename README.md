@@ -16,7 +16,6 @@
       />
     </p>
 
-
 ## 🧐 About Me
 
 -  BSc in Computer Science student building production-ready web applications  
@@ -28,18 +27,8 @@
 -  Comfortable with modern developer workflows including Git/GitHub, Vercel/Netlify deployment, and collaborative version control  
 -  Leveraging AI-assisted development for debugging, rapid prototyping, and productivity improvements
 
----
-
-## 📈 What Drives Me
-
-- ✅ Creating projects with **real users in mind** — always focused on practical, user-centered solutions  
-- ✅ Growing through **hands-on learning** and improving with every line of code  
-- ✅ Open to **internships, meaningful collaborations, and exciting opportunities** that push me forward  
 
 ---
-
-✨ _“Code isn’t just what I write — it’s how I think, solve, and build things that matter.”_
-
 
 ## 🛠️ Tech Stack
 
