@@ -212,16 +212,16 @@ A dynamic freelance platform where clients and freelancers connect through task-
 </p>
 
 <p align="center">
-  <a href="mailto:touhidtamim1@gmail.com">
+  <a href="mailto:touhidtamim1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
   </a>
-  <a href="https://linkedin.com/in/touhidtamim">
+  <a href="https://linkedin.com/in/touhidtamim" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
   </a>
-  <a href="https://touhid-tamim.netlify.app/">
+  <a href="https://touhid-tamim.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
   </a>
-  <a href="https://github.com/touhidtamim?tab=repositories">
+  <a href="https://github.com/touhidtamim?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
   </a>
 </p>
@@ -231,9 +231,9 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Motivation" />
-</p> -->
+</p>
 
 <p align="center">
   <b>Thanks for visiting!</b> 🤝  
