@@ -116,7 +116,7 @@
 
 ## 🚧 Projects
 
-### 🏟️ [Elite Arena](https://test-elite-arena.netlify.app) — Sports Club Management System  
+### 🏟️ [Elite Arena](https://github.com/touhidtamim/elite-arena-client-side) — Sports Club Management System  
 A professional-grade platform that simplifies sports club operations, including member registration, court booking, payments, and announcements — all in one place.
 
 **Key Highlights:**  
@@ -205,10 +205,11 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 ---
 
+
 ## 🤝 Let's Connect
 
 <p align="center" style="margin-bottom: 15px;">
-  Feel free to reach out — I’m always open to connect, collaborate, and learn.
+  Feel free to reach out — I’m always <b>open to connect, collaborate, and learn </b>b>.
 </p>
 
 <p align="center">
@@ -229,7 +230,7 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 ---
 
-
+<!-- Footer -->
 
  <p align="center" style="margin-bottom: 15px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Motivation" />
