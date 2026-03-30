@@ -180,17 +180,28 @@ A dynamic freelance platform where clients and freelancers connect through task-
 ---
 
 
+## 📈 What Drives Me
+
+- ✅ Solving real-world problems with practical, user-focused solutions
+- ✅ Building scalable systems designed to grow beyond MVP
+- ✅ Learning through hands-on projects and industry best practices
+- ✅ Collaborating effectively to deliver measurable results
+- ✅ Writing clean, maintainable code that drives business value
+- ✅ Seeking high-impact projects and opportunities to make a difference
 
 
-### 🎯 Current Focus & Activities
+---
 
-- 🧠 Mastering full-stack architecture, from frontend design patterns to scalable backend systems  
-- 🔐 Diving into advanced security: JWT flows, OAuth strategies, and API protection best practices  
-- 🧪 Embracing Test‑Driven Development (TDD) for writing production‑ready, reliable code  
-- ⚙️ Exploring DevOps fundamentals: CI/CD pipelines, serverless deployment, and Docker workflows  
-- 🌐 Building with Next.js for performance optimization, SEO, and universal rendering
 
-> Pushing beyond CRUD — architecting clean, scalable systems built to handle real‑world complexity.
+## 🎯 Current Focus
+
+- 🧠 Mastering full-stack MERN & Next.js to build scalable, production-ready apps  
+- 🔍 Exploring TypeScript, AI, serverless, and cloud technologies  
+- 🤖 Applying CSE fundamentals—DS, algorithms, DB, OS, networking—to real projects  
+- 🌐 Building user-centered applications with focus on performance and accessibility  
+- 🤝 Improving teamwork, agile collaboration, and code quality
+
+> **Impact Through Innovation — Build.✅  Scale.✅  Lead.✅**
 
 ---
 
@@ -201,33 +212,30 @@ A dynamic freelance platform where clients and freelancers connect through task-
 </p>
 
 <p align="center">
-  <a href="mailto:touhidtamim1@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="36" />
+  <a href="mailto:touhidtamim1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
   </a>
-  <a href="https://linkedin.com/in/touhidtamim" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
+  <a href="https://linkedin.com/in/touhidtamim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
   </a>
-  <a href="https://github.com/touhidtamim" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="36" />
+  <a href="https://touhid-tamim.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
+  </a>
+  <a href="https://github.com/touhidtamim?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
   </a>
 </p>
 
 
 ---
 
-## 💬 A Personal Note
 
-> “I'm not where I want to be yet — but every problem I solve takes me a step closer.”  
-> “To me, code isn't just syntax — it's thinking clearly, building purposefully, and learning relentlessly.”  
-> “If you're looking for someone who’s not afraid to start small but aims to build big, I’m already on that path.”
 
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Motivation" />
-</p>
+</p> -->
 
 <p align="center">
   <b>Thanks for visiting!</b> 🤝  
-  <i>Let’s build something meaningful together.</i>
+  <i>Let’s build something impactful together.</i>
 </p>
