@@ -209,7 +209,7 @@ A dynamic freelance platform where clients and freelancers connect through task-
 ## 🤝 Let's Connect
 
 <p align="center" style="margin-bottom: 15px;">
-  Feel free to reach out — I’m always <b>open to connect, collaborate, and learn </b>b>.
+  Feel free to reach out — I’m always <b>open to connect, collaborate, and learn </b>.
 </p>
 
 <p align="center">
