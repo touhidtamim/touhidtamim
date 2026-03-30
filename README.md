@@ -207,8 +207,8 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 ## 🤝 Let's Connect
 
-<p align="center" style="margin-bottom: 10px;">
-  Feel free to reach out — I’m always open to connect, collaborate, and learn.
+<p align="center" style="margin-bottom: 15px;">
+  **Feel free to reach out — I’m always open to connect, collaborate, and learn.**
 </p>
 
 <p align="center">
@@ -221,7 +221,7 @@ A dynamic freelance platform where clients and freelancers connect through task-
   <a href="https://touhid-tamim.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
   </a>
-  <a href="https://github.com/touhidtamim?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/touhidtamim?tab=repositories"  target="_blank" rel="noopener noreferrer" style="margin-bottom: 15px;">
     <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
   </a>
 </p>
@@ -231,11 +231,11 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 
 
- <p align="center">
+ <p align="center" style="margin-bottom: 15px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpxbXUzNGU1NTRyMGthMXNuNzd0Y2QxYjk5MXAwbnhkaTl6ZmQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Motivation" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom: 15px;">
   <b>Thanks for visiting!</b> 🤝  
   <i>Let’s build something impactful together.</i>
 </p>
