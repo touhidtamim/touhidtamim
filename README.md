@@ -164,38 +164,23 @@ A dynamic freelance platform where clients and freelancers connect through task-
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidtamim&bg_color=f8fafc&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
+<!-- Github Stats -->
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=touhidtamim&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidtamim&bg_color=f8fafc&text_color=1e40af&icon_color=2563eb&title_color=1e3a8a&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=touhidtamim.touhidtamim&style=for-the-badge&labelColor=000&color=blue" 
-    alt="visitor badge" 
-    style="width: 100px; height: auto; margin-right: 20px;" 
-  />
-  <img 
-    src="https://img.shields.io/github/followers/touhidtamim?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000&color=blue" 
-    alt="GitHub Followers" 
-    style="margin-right: 20px;" 
-  />
-  <img 
-    src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-blue?style=for-the-badge&labelColor=000" 
-    alt="Current Focus" 
-  />
-</p>
+<div align="center">
+  <a href="https://yourinsights.vercel.app">
+    <img src="https://yourinsights.vercel.app/api/insight?username=touhidtamim&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" width="100%" />
+  </a>
+</div>
+
 
 ---
+
+
+
 
 ### 🎯 Current Focus & Activities
 
