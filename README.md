@@ -36,8 +36,8 @@
 
 
 <!-- Tech stack badges -->
-## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
 
 
  <table>
@@ -131,7 +131,7 @@ A professional-grade platform that simplifies sports club operations, including 
 
 ---
 
-### 🥗 [KeepFresh](https://test-keepfresh.netlify.app) — Smart Food Expiry Tracker  
+### 🥗 [KeepFresh](https://github.com/touhidtamim/Keepfresh-Client-Side) — Smart Food Expiry Tracker  
 A full-stack MERN application designed to minimize food waste by helping users track expiry dates efficiently.
 
 **Key Highlights:**  
@@ -146,7 +146,7 @@ A full-stack MERN application designed to minimize food waste by helping users t
 
 ---
 
-### 🚀 [SkillNest](https://test-skillnest.netlify.app) — Freelance Task Marketplace  
+### 🚀 [SkillNest](https://github.com/touhidtamim/Skillnest-Client-Side) — Freelance Task Marketplace  
 A dynamic freelance platform where clients and freelancers connect through task-based project listings.
 
 **Key Highlights:**  
