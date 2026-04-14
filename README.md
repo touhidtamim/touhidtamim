@@ -213,7 +213,7 @@ A dynamic freelance platform where clients and freelancers connect through task-
 </p>
 
 <p align="center">
-  <a href="mailto:touhidtamim1@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:touhidtamim21@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
   </a>
   <a href="https://linkedin.com/in/touhidtamim" target="_blank" rel="noopener noreferrer">
